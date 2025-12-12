@@ -1,0 +1,30 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Android / build artifacts
+*.apk
+*.aab
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+*_BurstDebugInformation_DoNotShip/
+
+# VS / Rider / IDE
+.vs/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.unityproj
+*.suo
+*.tmp
+*.booproj
+
+# Crash reports
+sysinfo.txt
